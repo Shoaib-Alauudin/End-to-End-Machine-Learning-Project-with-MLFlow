@@ -1,7 +1,6 @@
 from MLProject.components.model_evaluation import ModelEvaluation
 from MLProject.config.configuration import ConfigurationManager
 from MLProject import logger
-from pathlib import Path
 
 
 STAGE_NAME = "Model Evaluation stage"
